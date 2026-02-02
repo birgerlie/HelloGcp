@@ -2,6 +2,11 @@
 
 A proof-of-concept demonstrating Google Workspace integration with domain-wide delegation.
 
+## Documentation
+
+- **[CLAUDE.md](CLAUDE.md)** - Project context and current status
+- **[docs/WORKSPACE_SETUP.md](docs/WORKSPACE_SETUP.md)** - Detailed Google Workspace configuration guide
+
 ## Architecture
 
 ```
